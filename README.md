@@ -11,7 +11,8 @@ Aplicación conceptos de herencia y polimorfismo
 Las empresas de telefonía celular pueden ofrecer los siguientes planes. Todos los planes al menos debe tener las siguientes características:
 
 ### PlanCelular
-- propietario tipo (Persona: nombres, apellido, identificación)
+- nombres propietario tipo (tipo cadena)
+- cedula propietario (tipo cadena)
 - Ciudad propietario (tipo cadena)
 - marca de celular
 - modelo del celular
@@ -51,9 +52,8 @@ En una clase Principal usted debe:
 
 - Generar un método main que permita ingresar múltiples tipos de objetos de Planes de celular.
 - Se debe calcular el valor mensual a pagar de acuerdo a su contexto.
-- Guardar la información de cada objeto en un archivo serializado.
-- Obtener la información del archivo serializado y presentar la información de cada objeto haciendo uso
-  del método toString
+- Guardar la información de cada objeto en una base de datos (una entidad por cada clase). Se usará la base de datos SQLite.
+- Obtener la información de los registros de la base de datos y presentar la información de cada objeto haciendo uso del método toString
 - Generar un diagrama que involucre las clases del polimorfismo.
 
 ## Recomendaciones:
@@ -66,5 +66,5 @@ En una clase Principal usted debe:
 
 - En el método (main) de la clase a Ejecutar. En un ciclo repetitivo el usuario puede decidir que tipo de Plan desea crear para la empresa de acuerdo a las opciones: PlanPostPagoMinutos, PlanPostPagoMegas, PlanPostPagoMinutosMegas, PlanPostPagoMinutosMegasEconomico.
 - De acuerdo a la opción, el usuario ingresa por teclado los datos necesarios para crear el objeto.
-- Luego de crear el objeto; se debe guardar el mismo en un archivo llamado: planes.data
-- Finalizado el ciclo (cuando lo decida el usuario); se debe presentar todos los objetos guardados en el archivo.
+- Luego de crear el objeto; se debe guardar en la base datos
+- Finalizado el ciclo (cuando lo decida el usuario); se debe presentar todos los objetos guardados en la base de datos.
