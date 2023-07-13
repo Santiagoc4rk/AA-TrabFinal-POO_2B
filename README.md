@@ -11,15 +11,19 @@ Aplicación conceptos de herencia y polimorfismo
 Las empresas de telefonía celular pueden ofrecer los siguientes planes. Todos los planes al menos debe tener las siguientes características:
 
 ### PlanCelular
-- nombres propietario tipo (tipo cadena)
-- cedula propietario (tipo cadena)
-- Ciudad propietario (tipo cadena)
+- nombre y apellidos propietario tipo (tipo cadena)
+- pasaporte propietario (tipo cadena)
+- ciudad propietario (tipo cadena)
+- barrio del propietario
 - marca de celular
 - modelo del celular
 - numero celular
-- pago mensual (para obtener el valor, se debe operar en cada subclase)
+- pago mensual
 
 Los planes se caracterizan además y clasifican así:
+
+### PlanPostPagoMinutosMegasEconomico
+- minutos|costo minutos|megas expresado en gigas|costo por cada gigas|porcentaje de descuento (Ejemplo: 10%)
 
 ### PlanPostPagoMinutos:
 - minutos nacionales|costo minuto nacional|minutos internacionales|costo minuto internacional
@@ -30,8 +34,6 @@ Los planes se caracterizan además y clasifican así:
 ### PlanPostPagoMinutosMegas
 - minutos|costo minutos|megas expresado en gigas|costo por cada giga
 
-### PlanPostPagoMinutosMegasEconomico
-- minutos|costo minutos|megas expresado en gigas|costo por cada gigas|porcentaje de descuento (Ejemplo: 10%)
 
 
 ## Tareas:
