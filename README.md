@@ -25,7 +25,7 @@ La carrera de Telecomunicación-UTPL a impulsado un proyecto de comunicación m�
 > 1. ### PlanPostPagoMinutosMegasEconomico
 > Quienes deben almacenar la siguiente información: minutos, costo minutos, megas expresados en gigas, costo por cada gigas, porcentaje de descuento.
 >
-> 2. ### PlanPostPagoMinutos:
+> 2. ### PlanPostPagoMinutos
 > Con los siguientes datos: minutos nacionales, costo minuto nacional, minutos internacionales, costo minuto internacional. 
 >
 > 3. ### PlanPostPagoMegas
@@ -43,10 +43,11 @@ En base a los lineamientos generales, Ud. debe realizar el análisis, diseño, c
 - Generación de las facturas por cliente/plan, en base a los lineamientos anteriores. 
 - Considerar que los clientes/estudiantes pueden disponer de no más de 2 tipos de planes. 
 - Recuerde que el motor de DB debe ser SQLite, para todo el sistema (Clientes, planes, facturas, etc.)
-- Las operaciones CRUD deben facilitar la gestión de Clientes y/o planes. 
+- Las operaciones CRUD deben facilitar la gestión de clientes y/o planes. 
 - No olvide que es imprescindible antes de la codificación/pruebas, documentar de forma oportuna su análisis y diseño en UML, aplicando de forma oportuna y eficiente la herencia y el polimorfismo.
 - Se debe aplicar la arquitectura MVC, considerando sus principios de diseño. 
 - En su repositorio GIT coloque cada entregable según la carpeta creada para el fin. 
+- Considere las criterios de evaluación en la "RUBRICA DE EVALUACIÓN PARA PROYECTOS DE FIN DE BIMESTRE" adjunta en su EVA.
 
 ## Entregables:
 
