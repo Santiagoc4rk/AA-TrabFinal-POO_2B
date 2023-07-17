@@ -1,6 +1,6 @@
 # Trabajo final del 2do.Bimestre.
 
-* Este trabajo final se lo realizará de forma grupal aplicando los R.A. obtenidos en el transcurso del bimestre. Grupos de máximo 2 personas con el fin de garantizar los RA por integrante. 
+Este trabajo final se lo realizará de forma grupal aplicando los R.A. obtenidos en el transcurso del bimestre. Grupos de máximo 2 personas con el fin de garantizar los RA por integrante. 
 
 ## Tema:
 
@@ -17,7 +17,10 @@ La carrera de Telecomunicación-UTPL a impulsado un proyecto de comunicación m�
 ### Datos básicos del cliente:
 > Conformado por sus nombres, pasaporte/cédula, ciudad, marca, modelo y numero de celular, pago mensual. (Importante: Ud. debe agregar al menos 2 atributos adicionales)
 > 
-> Tipos de planes móviles: Los planes se caracterizan según su clasificación de la siguiente forma: 
+
+### Tipos de planes móviles: 
+
+>Los planes se caracterizan según su clasificación de la siguiente forma: 
 >
 > 1. ### PlanPostPagoMinutosMegasEconomico
 > Quienes deben almacenar la siguiente información: minutos, costo minutos, megas expresados en gigas, costo por cada gigas, porcentaje de descuento.
