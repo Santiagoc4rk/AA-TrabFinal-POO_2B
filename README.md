@@ -14,23 +14,21 @@ Aplicación los pilares de la POO: herencia y polimorfismo, generando resultados
 
 La carrera de Telecomunicación-UTPL a impulsado un proyecto de comunicación móvil para la comunidad Universitaria, por cuanto dispone de toda la infraestructura tecnológica, pero se encuentra detenida por que requiere de un Sistema de Gestión de sus clientes y facturación, con ciertos planes celulares según la siguiente información: 
 
-> ### Datos básicos del cliente:
+### Datos básicos del cliente:
 > Conformado por sus nombres, pasaporte/cédula, ciudad, marca, modelo y numero de celular, pago mensual. (Importante: Ud. debe agregar al menos 2 atributos adicionales)
-
-> ### Tipos de planes móviles:
-
-> Los planes se caracterizan según su clasificación de la siguiente forma: 
-
-> ### PlanPostPagoMinutosMegasEconomico
+> 
+> Tipos de planes móviles: Los planes se caracterizan según su clasificación de la siguiente forma: 
+>
+> 1. ### PlanPostPagoMinutosMegasEconomico
 > Quienes deben almacenar la siguiente información: minutos, costo minutos, megas expresados en gigas, costo por cada gigas, porcentaje de descuento.
-
-> ### PlanPostPagoMinutos:
+>
+> 2. ### PlanPostPagoMinutos:
 > Con los siguientes datos: minutos nacionales, costo minuto nacional, minutos internacionales, costo minuto internacional. 
-
-> ### PlanPostPagoMegas
+>
+> 3. ### PlanPostPagoMegas
 > La información para este tipo de plan es: megas expresados en gigas, costo por cada giga, tarifa base.
-
-> ### PlanPostPagoMinutosMegas
+>
+> 4. ### PlanPostPagoMinutosMegas
 > Con datos como: minutos, costo minutos, megas expresados en gigas, costo por cada giga.
 
 
@@ -51,9 +49,9 @@ En base a los lineamientos generales, Ud. debe realizar el análisis, diseño, c
 
 En cada una de las carpetas de este repositorio GIT Ud. debe colocar los productos según las siguientes instrucciones: 
 
-1.- MODELADO: diagramas UML haciendo uso de DiaUML, o StarUML. Adjunte los archivos fuente .dia/.mdj así como la exportación/captura de la img .png, .jpg, o equivalentes. 
-2.- SOLUCION: Proyecto NetBeans/IntelliJ aplicando la arquitectura MVC. 
-3.- INFORME: Un documento con la siguiente estructura/información:
+1. MODELADO: diagramas UML haciendo uso de DiaUML, o StarUML. Adjunte los archivos fuente .dia/.mdj así como la exportación/captura de la img .png, .jpg, o equivalentes. 
+2. SOLUCION: Proyecto NetBeans/IntelliJ aplicando la arquitectura MVC. 
+3. INFORME: Un documento con la siguiente estructura/información:
 	- Caratula: con los datos universitarios del grupo de trabajo. 
 	- Análisis: de la solución con tablas, figuras, esquemas, etc. que evidencien un pre-procesamiento del problema. 
 	- Diseño: diagramas UML bien documentados. 
