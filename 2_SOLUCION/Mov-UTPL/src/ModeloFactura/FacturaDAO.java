@@ -170,24 +170,6 @@ public class FacturaDAO {
         }
     }
 
-    public int obtenerProximoNumeroFactura() {
-        int maxNumero = 0;
-        String sql = "SELECT MAX(numFactura) AS maxNum FROM factura";
-
-        try (Connection conn = ConexionSQLite.conectar();
-             Statement stmt = conn.createStatement();
-             ResultSet rs = stmt.executeQuery(sql)) {
-
-            if (rs.next()) {
-                maxNumero = rs.getInt("maxNum");
-            }
-        } catch (SQLException e) {
-            System.err.println("Error al obtener el último número de factura: " + e.getMessage());
-        }
-
-        return maxNumero + 1;
-    }
-
     private PlanCelular crearPlanPorTipo(String tipoPlan) {
         switch (tipoPlan) {
             case "PlanPostPagoMegas":

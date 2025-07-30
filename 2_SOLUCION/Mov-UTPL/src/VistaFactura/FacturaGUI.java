@@ -1,4 +1,4 @@
-package VistaFactura;
+ package VistaFactura;
 
 import Controlador.FacturaControlador;
 import Controlador.PlanCelularControlador;

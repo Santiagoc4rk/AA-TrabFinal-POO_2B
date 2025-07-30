@@ -12,6 +12,7 @@
             <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/src/Controlador/PlanCelularControlador.java</file>
             <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/src/VistaPlan/PlanCelularGUI.java</file>
             <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/src/ModeloPlanCelular/PlanCelular.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/test/Controlador/PlanCelularControladorTest.java</file>
             <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/src/Controlador/ClienteControlador.java</file>
             <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/src/ModeloPlanCelular/PlanPostPagoMinutosMegasEconomico.java</file>
             <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/src/ModeloPlanCelular/PlanPostPagoMegas.java</file>
@@ -20,6 +21,8 @@
             <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/src/Vista/VistaPrincipal.java</file>
             <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/src/VistaFactura/FacturaGUI.java</file>
             <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/src/ModeloFactura/Factura.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/test/Controlador/ClienteControladorTest.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/test/Controlador/FacturaControladorTest.java</file>
             <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/src/Util/ConexionSQLite.java</file>
             <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/src/ModeloCliente/Cliente.java</file>
             <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/src/ModeloFactura/FacturaDAO.java</file>
