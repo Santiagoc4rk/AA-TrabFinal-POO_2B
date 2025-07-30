@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/src/ModeloPlanCelular/PlanCelularServicio.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/src/ModeloPlanCelular/PlanPostPagoMinutosMegas.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/src/ModeloPlanCelular/PlanPostPagoMinutos.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/src/VistaCliente/ClienteGUI.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/src/ModeloPlanCelular/PlanCelularDAO.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/src/ModeloCliente/ClienteDAO.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/src/Controlador/PlanCelularControlador.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/src/VistaPlan/PlanCelularGUI.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/src/ModeloPlanCelular/PlanCelular.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/src/Controlador/ClienteControlador.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/src/ModeloPlanCelular/PlanPostPagoMinutosMegasEconomico.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/src/ModeloPlanCelular/PlanPostPagoMegas.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/src/mov/utpl/MovUTPL.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/src/Controlador/FacturaControlador.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/src/Vista/VistaPrincipal.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/src/VistaFactura/FacturaGUI.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/src/ModeloFactura/Factura.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/src/Util/ConexionSQLite.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/src/ModeloCliente/Cliente.java</file>
+            <file>file:/C:/Users/Usuario%20iTC/Desktop/Proyecto%20de%20POO2/Mov-UTPL/src/ModeloFactura/FacturaDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
